@@ -1,4 +1,4 @@
->_ RootProwler – Cybersecurity Portfolio
+🖳RootProwler – Cybersecurity Portfolio
 
 A modern, animation-rich cybersecurity portfolio showcasing offensive security tools, OSINT utilities, and advanced security research.
 Built using React, Vite, TailwindCSS, ShadCN UI, and deployed on GitHub Pages.
